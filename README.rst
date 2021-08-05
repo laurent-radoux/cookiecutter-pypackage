@@ -78,6 +78,8 @@ Similar Cookiecutter Templates
   See ``README.rst`` or the `github comparison view`_ for exhaustive list of 
   additions and modifications.
 
+* `laurent-radoux/cookiecutter-pypackage`_: A fork .
+
 * Also see the `network`_ and `family tree`_ for this repo. (If you find
   anything that should be listed here, please add it and send a pull request!)
 

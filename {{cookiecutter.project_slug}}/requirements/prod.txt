@@ -1,1 +1,4 @@
-apiwrapper
+pip
+setuptools~=57.4.0
+{% if cookiecutter.command_line_interface|lower == 'click' -%}
+Click==7.0{% endif %}
