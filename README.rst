@@ -2,8 +2,8 @@
 cookiecutter-pypackage
 ======================
 
-.. image:: https://api.travis-ci.org/ardydedase/cookiecutter-pypackage.svg?branch=master
-   :target: https://travis-ci.org/ardydedase/cookiecutter-pypackage
+.. image:: https://api.travis-ci.org/laurent-radoux/cookiecutter-pypackage.svg?branch=master
+   :target: https://travis-ci.org/laurent-radoux/cookiecutter-pypackage
 
 
 This was forked from: https://github.com/audreyr/cookiecutter-pypackage. Here are the differences of this forked version:
@@ -36,7 +36,7 @@ Usage
 
 Generate a Python package project::
 
-    cookiecutter https://github.com/ardydedase/cookiecutter-pypackage.git
+    cookiecutter https://github.com/laurent-radoux/cookiecutter-pypackage.git
 
 About the package ``requirements``:
 
@@ -78,7 +78,8 @@ Similar Cookiecutter Templates
   See ``README.rst`` or the `github comparison view`_ for exhaustive list of 
   additions and modifications.
 
-* `laurent-radoux/cookiecutter-pypackage`_: A fork .
+* `laurent-radoux/cookiecutter-pypackage`_: A fork of this with updated Pytest, flake8,
+  requirement management and default github workflows.
 
 * Also see the `network`_ and `family tree`_ for this repo. (If you find
   anything that should be listed here, please add it and send a pull request!)
