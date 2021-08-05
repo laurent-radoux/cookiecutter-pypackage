@@ -14,7 +14,9 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v2
         with:
+        {% raw %}
           python-version: ${{ matrix.python }}
+        {% endraw %}
       - name: Install Tox and any other packages
         run: pip install tox
       - name: Run Tox
